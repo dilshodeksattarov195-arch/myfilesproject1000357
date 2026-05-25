@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filteruerify",
+        "uuid": 1257354,
+        "checksum": "t16ygl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
